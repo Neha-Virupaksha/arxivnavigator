@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Secrets — never commit these
+.env
+
+# OS clutter
+.DS_Store
+
+# Debug/temp files from development
+debug_output.txt
+
+# Stray files (not part of the actual project)
+arxivnavigator/
+arxivnavigator.zip
+.pytest_cache/
